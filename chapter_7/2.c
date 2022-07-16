@@ -2,6 +2,7 @@
 
 int main(void) {
   int suuti;
+  
   scanf("%d", &suuti);
 
   if (suuti >= 8 && suuti <= 12)
